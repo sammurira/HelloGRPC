@@ -1,0 +1,8 @@
+/Users/samuelmurira/IdeaProjects/HelloGRPC/src/main/java/com/muriras/HelloClient.java
+/Users/samuelmurira/IdeaProjects/HelloGRPC/src/main/java/com/muriras/HelloServer.java
+/Users/samuelmurira/IdeaProjects/HelloGRPC/target/generated-sources/protobuf/grpc-java/com/muriras/grpc/GreeterGrpc.java
+/Users/samuelmurira/IdeaProjects/HelloGRPC/target/generated-sources/protobuf/java/com/muriras/grpc/HelloProto.java
+/Users/samuelmurira/IdeaProjects/HelloGRPC/target/generated-sources/protobuf/java/com/muriras/grpc/HelloReply.java
+/Users/samuelmurira/IdeaProjects/HelloGRPC/target/generated-sources/protobuf/java/com/muriras/grpc/HelloReplyOrBuilder.java
+/Users/samuelmurira/IdeaProjects/HelloGRPC/target/generated-sources/protobuf/java/com/muriras/grpc/HelloRequest.java
+/Users/samuelmurira/IdeaProjects/HelloGRPC/target/generated-sources/protobuf/java/com/muriras/grpc/HelloRequestOrBuilder.java
